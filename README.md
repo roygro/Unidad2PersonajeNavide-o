@@ -24,7 +24,6 @@ En este proyecto, utilizando conceptos aprendidos en el curso de Python, se impl
 
 ## Coevaluacion
 Lo que hizo bien:
-
 Estructura del código: El uso de clases y funciones para modularizar el proyecto es adecuado, lo que hace que el código sea más organizado y fácil de entender. La implementación de las funciones de movimiento y animación (bailar, parpadear, guiñar) es clara y eficiente.
 Manejo de entradas: El uso del botón para activar las secuencias es correcto y eficiente, lo que permite una interacción clara con el usuario.
 Sincronización de acciones: Las animaciones y sonidos están bien sincronizados, lo que ayuda a crear una experiencia dinámica y fluida.
