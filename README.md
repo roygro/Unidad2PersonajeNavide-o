@@ -1,4 +1,4 @@
-# Unidad2PersonajeNavide-o
+# Unidad2PersonajeNavideño
 Evidencias de la Unidad, videos de las actividades realizadas, capturas de los examenes del curso de python y el avance del proyecto
 
 ## Ejercicio Practico Integral
