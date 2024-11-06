@@ -3,6 +3,7 @@ Evidencias de la Unidad, videos de las actividades realizadas, capturas de los e
 
 ## Ejercicio Practico Integral
 https://drive.google.com/file/d/1jXwqmK4ITC5yddx58-1aJiMXpOgx_DAA/view?usp=sharing
+
 11. Alarma de Seguridad para Zona Restringida
 Componentes: HC-SR04, buzzer, LED RGB, OLED
 Descripcion: Si alguien cruza la zona restringida, el buzzer emite una alarma, 
