@@ -37,4 +37,4 @@ Revisión del control de hardware: Aunque el código controla correctamente los 
 Aspectos técnicos y de calidad a resaltar:
 Uso correcto de la programación orientada a objetos: La implementación de clases para gestionar los diferentes componentes del robot (brazos, cabeza, ojos) refleja un buen manejo de la programación orientada a objetos.
 Funcionalidad robusta: El proyecto funciona correctamente, y todas las animaciones se realizan como se espera.
-Recomendaciones: Asegúrate de mejorar los comentarios en el código y considerar la optimización de la gestión del tiempo para evitar bloqueos. También es importante verificar la potencia suministrada a los componentes del robot para garantizar un rendimiento estable.
+
