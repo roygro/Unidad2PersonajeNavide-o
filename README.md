@@ -13,6 +13,7 @@ el LED RGB parpadea en rojo, y la distancia del intruso se muestra en la OLED
 https://drive.google.com/drive/folders/10wt11mgyVxfgfTNA8foS2NPJdw6Lk_1y?usp=sharing
 
 ## Avance del proyecto navideño
+https://drive.google.com/file/d/1XZ0UGGbFP9CAtWFb7D5PdVtOTffPV7BO/view?usp=drivesdk
 
 
 
