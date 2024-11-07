@@ -13,6 +13,7 @@ el LED RGB parpadea en rojo, y la distancia del intruso se muestra en la OLED
 
 ## Ejercicios en Clase
 https://drive.google.com/drive/folders/10wt11mgyVxfgfTNA8foS2NPJdw6Lk_1y?usp=sharing
+
 Se muestran los videos de los ejercicios realizados en clase los cuales fueron: potenciometro con pantalla OLED, sensor ultrasonico, motor a pasos, servo motor, 
 led con touch, joystick, buzzer, matrices
 
