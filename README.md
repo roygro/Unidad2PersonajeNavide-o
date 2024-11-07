@@ -2,7 +2,9 @@
 Evidencias de la Unidad, videos de las actividades realizadas, capturas de los examenes del curso de python y el avance del proyecto
 
 ## Ejercicio Practico Integral
-https://drive.google.com/file/d/1jXwqmK4ITC5yddx58-1aJiMXpOgx_DAA/view?usp=sharing
+Video:https://drive.google.com/file/d/1jXwqmK4ITC5yddx58-1aJiMXpOgx_DAA/view?usp=sharing
+
+Link del codigo: https://drive.google.com/file/d/1VrQrKxUZq148SprdE26agpQa8Fr_MPyq/view?usp=sharing
 
 11. Alarma de Seguridad para Zona Restringida
 Componentes: HC-SR04, buzzer, LED RGB, OLED
@@ -11,9 +13,15 @@ el LED RGB parpadea en rojo, y la distancia del intruso se muestra en la OLED
 
 ## Ejercicios en Clase
 https://drive.google.com/drive/folders/10wt11mgyVxfgfTNA8foS2NPJdw6Lk_1y?usp=sharing
+Se muestran los videos de los ejercicios realizados en clase los cuales fueron: potenciometro con pantalla OLED, sensor ultrasonico, motor a pasos, servo motor, 
+led con touch, joystick, buzzer, matrices
 
 ## Avance del proyecto navideño
-https://drive.google.com/file/d/1XZ0UGGbFP9CAtWFb7D5PdVtOTffPV7BO/view?usp=drivesdk
+https://drive.google.com/file/d/1XZ0UGGbFP9CAtWFb7D5PdVtOTffPV7BO/view?usp=drivesdkse 
+
+Hasta el momento logramos simular que se muevan los brazos por medio de servo motores, el movimiento de la cabeza del alcalde con un moto a pasos,
+el parpadeo y guiño de los ojos del alcalde por medio de leds, ademas de un led que simula cuando el sombrero este arriba o este puesto y finalmente 
+utilizamos un buzzer para simular una bocina con la cual soñara una melodia, ya sea la cancion del mundo extraño de Jack o una navideña
 
 
 
